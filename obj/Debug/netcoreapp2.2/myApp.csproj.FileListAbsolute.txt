@@ -1,0 +1,11 @@
+/Users/samuelsnider/c_sharp_ws/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/Users/samuelsnider/c_sharp_ws/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/Users/samuelsnider/c_sharp_ws/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/Users/samuelsnider/c_sharp_ws/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/Users/samuelsnider/c_sharp_ws/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/Users/samuelsnider/c_sharp_ws/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/Users/samuelsnider/c_sharp_ws/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/Users/samuelsnider/c_sharp_ws/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/Users/samuelsnider/c_sharp_ws/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/Users/samuelsnider/c_sharp_ws/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/Users/samuelsnider/c_sharp_ws/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
