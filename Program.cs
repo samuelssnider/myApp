@@ -10,6 +10,19 @@ namespace myApp
             foreach (var name in names){
                 Console.WriteLine($"Hello {name.ToUpper()}!");
             }
+            Console.WriteLine($"The list has {names.Count} people in it");
+            names.Add("Maria");
+            names.Add("Bill");
+            names.Remove("Sam");
+            foreach (var name in names){
+                Console.WriteLine($"Hello {name.ToUpper()}!");
+            }
+            Console.WriteLine($"The list has {names.Count} people in it");
+            names.Sort();
+            foreach (var name in names){
+                Console.WriteLine($"Hello {name.ToUpper()}!");
+            }
+            Console.WriteLine($"The list has {names.Count} people in it");
         }
     }
 }
