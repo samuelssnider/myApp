@@ -9,12 +9,14 @@ namespace myApp
             var fibonacciNumbers = new List<int> {1,1};
 
             List<int> fib(List<int> s){
-               s.Add(s[s.Count - 1] + s[s.Count - 1]);
-               Console.WriteLine(s[s.Count -1]);
+               s.Add(s[s.Count - 1] + s[s.Count - 2]);
                return s;
             }
             for(var i=0; i <= 20; i ++){
                 fibonacciNumbers = fib(fibonacciNumbers);
+            }
+            foreach(var item in fibonacciNumbers){
+            Console.WriteLine(item);
             }
         }
     }
