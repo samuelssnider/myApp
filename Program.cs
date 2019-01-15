@@ -12,7 +12,7 @@ namespace myApp
                s.Add(s[s.Count - 1] + s[s.Count - 2]);
                return s;
             }
-            for(var i=0; i <= 20; i ++){
+            for(var i=0; i <= 100; i ++){
                 fibonacciNumbers = fib(fibonacciNumbers);
             }
             foreach(var item in fibonacciNumbers){
